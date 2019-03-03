@@ -1,0 +1,246 @@
+    1  sudo apt -get install --reinstall make
+    2  sudo apt  install --reinstall make
+    3  sudo apt -get dist-upgrade
+    4  sudo apt  dist-upgrade
+    5  sudo apt  install build-essential
+    6  clear
+    7  iwconfig
+    8  sudo ifconfig wlan0 down
+    9  sudo ifconfig wlan0 up
+   10  ifconfig
+   11  sudo apt install net-tools
+   12  sudo nautilus
+   13  git clone https://github.com/lwfinger/rtlwifi_new.git
+   14  sudo apt install git
+   15  clear
+   16  sudo rm /var/lib/apt/lists/lock
+   17  git clone https://github.com/lwfinger/rtlwifi_new.git
+   18  sudo apt install git
+   19  sudo rm /var/lib/apt/lists/lock
+   20  sudo rm -f  /var/lib/apt/lists/lock
+   21  sudo apt install git
+   22  sudo apt install net-tools
+   23  cd ~/var/lib/dpkg/ 
+   24  clear
+   25  apt-get update
+   26  ps -A | grep apt
+   27  cd /etc/apt/sources.list.d/
+   28  mv mono-xamarin.listsudo mono-xamarin.list
+   29  sudo apt-get update
+   30  cd /
+   31  apt-get update
+   32  cd /etc/apt/sources.list.d/
+   33  chmod 777 
+   34  ls
+   35  chmod 777  /etc/apt/sources.list.d/
+   36  apt-get update
+   37  sudo apt-get update
+   38  clear
+   39  sudo apt-get install git
+   40  sudo apt-get install git-core
+   41  cd ~
+   42  sudo apt-get install git-core
+   43  sudo apt install neofetch
+   44  sudo kill -9 2309
+   45  sudo rm /var/lib/dpkg/lock
+   46  sudo dpkg --configure -a
+   47  sudo apt update
+   48  sudo apt-get update
+   49  apt-get install git-core
+   50  clear
+   51  su 
+   52  sudo
+   53  su
+   54  clear
+   55  sudo -i
+   56  su
+   57  ls
+   58  su
+   59  sudo lshw -class network
+   60  cd etc/pm/config.d
+   61  cd /etc
+   62  cd pm
+   63  ls
+   64  cd sleep.d/
+   65  ls
+   66  sudo touch config
+   67  sudo gedit config
+   68  echo "options RTL8111/8168/8411 PCI Express fwlps=N" | sudo tee /etc/modprobe.d/ RTL8111/8168/8411 PCI Express.conf 
+   69  reboot
+   70  ps
+   71  lsusb
+   72  clear
+   73  ifconfig
+   74  su
+   75  ls
+   76  sudo modprobe -v brcmsmac
+   77  sudo modprobe -v bcma
+   78  sudo modprobe -r rtl8723de && sleep 5 && sudo modprobe rtl8723de ant_sel=1
+   79  ls
+   80  cd rtlwifi_new/
+   81  sudo modprobe -r rtl8723de && sleep 5 && sudo modprobe rtl8723de ant_sel=1
+   82  sudo modprobe -r rtl8723de && sleep 5 && sudo modprobe rtl8723de ant_sel=2
+   83  sudo dkms install rtlwifi-new/0.6
+   84  cd~
+   85  cd ~
+   86  sudo dkms add ./rtlwifi_new
+   87  sudo dkms install rtlwifi-new/0.6
+   88  sudo modprobe -r rtl8723de && sleep 5 && sudo modprobe rtl8723de ant_sel=1
+   89  reboot
+   90  su
+   91  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   92  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   93  sudo apt-get install apt-transport-https
+   94  clear
+   95  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+   96  sudo apt-get update
+   97  sudo apt-get install sublime-text-installer
+   98  sudo apt-get install vim 
+   99  sudo apt-get remove sublime-text-installer
+  100  clear
+  101  sudo add-apt-repository ppa:webupdSteam/sublime-text-3
+  102  clear
+  103  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  104  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg
+  105  sudo apt-get install apt-transport-https
+  106  sudo apt-get update
+  107  sudo apt-get install sublime-text
+  108  sudo apt-get remove vim.tiny
+  109  sudo apt-get remove vim
+  110  clear
+  111  sudo update-grub
+  112  sudo add-apt-repository ppa:yannubuntu/boot-repair
+  113  sudo apt-get update
+  114  sudo apt-get install boot-repair
+  115  cdedit /set {bootmgr} path C:\Windows\system32\winload.efi 
+  116  bcdedit /set {bootmgr} path C:\Windows\system32\winload.efi 
+  117  sudo apt-get update && sudo apt-get install firefox
+  118  sudo apt-get update firefox
+  119  sudo apt-get install chromium-browser
+  120  su
+  121  ls
+  122  cd Documents/Company
+  123  cd Documents/Company\ Work/
+  124  ls
+  125  mkdir BOOKS
+  126  ls
+  127  mv NodeJS.pdf BOOKS/
+  128  ls
+  129  cat Description\ Document\ for\ Achive\ GOAL 
+  130  sudo 
+  131  sudo apt -get install chrom-browser
+  132  sudo apt-get install chrom-browser
+  133  exot
+  134  exit
+  135  cd Documents/Company\ Work/
+  136  cd..
+  137  cd ..
+  138  mv Company\ Work Company_Work
+  139  ls
+  140  cd Company_Work/
+  141  ls
+  142  clear
+  143  exit
+  144  cd Documents/
+  145  ls
+  146  cd Company_Work/
+  147  clear
+  148  ls
+  149  mkdir LINUX
+  150  mkdir HTML_CSS_BOOTSTREP
+  151  mkdir JavaScript
+  152  mkdir Node_Express_Mongodb_Api
+  153  mkdir Project_GOAL
+  154  ls
+  155  cd HTML_CSS_BOOTSTREP/
+  156  cd ..
+  157  cd LINUX/
+  158  touch reference
+  159  touch Goal
+  160  mv reference path+reference
+  161  ls
+  162  clear
+  163  cd ..
+  164  ls
+  165  cd HTML_CSS_BOOTSTREP/
+  166  touch Goal
+  167  touch  path+reference
+  168  ls
+  169  cd ..
+  170  ls
+  171  cd JavaScript/
+  172  touch Goal
+  173  touch  path+reference
+  174  LS
+  175  ls
+  176  cd
+  177  cd /Documents/Company_Work/
+  178  cd /Documents/Company_Work
+  179  cd Documents/Company_Work
+  180  clear
+  181  ls
+  182  cd Node_Express_Mongodb_Api/
+  183  touch  path+reference
+  184  touch Goal
+  185  ls
+  186  cd ..
+  187  ls
+  188  cd Project_GOAL/
+  189  touch Goal+use tech_list
+  190  cd ..
+  191  celae
+  192  claer
+  193  clear
+  194  ls -R
+  195  cd Project_GOAL/
+  196  ls
+  197  ls -l 
+  198  rm tech_list 
+  199  mv Goal+use_tech
+  200  mv Goal+use Goal+use_tech_list
+  201  clear
+  202  cd ..
+  203  ls -r
+  204  ls -R
+  205  cd LINUX/
+  206  cd .. 
+  207  git init
+  208  clear
+  209  ls
+  210  cd Documents/
+  211  ls
+  212  cd Company_Work/
+  213  git init
+  214  git clone https://github.com/mrunalrapidops/Home_work_Folder.git
+  215  git add README.md
+  216  git status
+  217  git add . 
+  218  git statys
+  219  git stats
+  220  git status
+  221  git add README.md
+  222  touch README.md
+  223  git add. 
+  224  git add . 
+  225  git status
+  226  git commit -m "Create Folders"
+  227  git show origin
+  228  git add origin https://github.com/mrunalrapidops/Home_work_Folder.git
+  229  git log
+  230  git commit -m 
+  231  git commit -m "First Commit"
+  232  git add origin https://github.com/mrunalrapidops/Home_work_Folder.git
+  233  git remote show origin
+  234  git branch
+  235* git push -
+  236  git branch
+  237  git add origin https://github.com/mrunalrapidops/Home_work_Folder.git
+  238  git commit -m "hello"
+  239  git config --global user.name mrunalrapidops
+  240  git branch
+  241  git status
+  242  git git remote add origin https://github.com/mrunalrapidops/Home_work_Folder.git
+  243  git  remote add origin https://github.com/mrunalrapidops/Home_work_Folder.git
+  244  git branch
+  245  git checkout master 
+  246  git history >> git.txt
