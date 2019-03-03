@@ -1,11 +1,12 @@
+Questions
 What is API (Rest/Soap)
 How Api works? with all oprations 
 Crud opration is API -> Yes/NO
 
-Google  ->Sighnin Contact
-FaceBook->Sighnin
-Github  ->Sighnin
+Exercise using Node,Express,Mongo+Mongoose
+Sample of any website (A)
+Google  -> Sighnin, Contact
+FaceBook-> Sighnin
+Github  -> Sighnin
 
-Build in Node,Express,Mongo+Mongoose 
-Refrence (V)=>Vedio,(W)=>Website
-
+Refrence (V)=>Vedio,(W)=>Website,(A)=>Achive https://blogs.mulesoft.com/biz/tech-ramblings-biz/what-are-apis-how-do-apis-work/ (W)

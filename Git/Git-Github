@@ -1,0 +1,13 @@
+All Commands In Detail with Path
+
+git init
+git add .
+git status
+git remote add origin https://github.com/username/your-repo-name.git
+git config --global user.email "mrunal.patadia@rapidops.com"
+git commit -m "first commit" // create "master" branch
+git branch
+git push -u origin master
+
+How Company works in Git-Github
+Refrences

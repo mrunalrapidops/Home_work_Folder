@@ -1,0 +1,35 @@
+What is API(Application programming interface)?
+Main Aim :- get json data for which sender snrd req
+
+Wiki:-
+A set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.
+
+API is the messenger that delivers your request to the provider that you’re requesting it from and then delivers the response back to you.
+
+consuming application from the infrastructure that provides a service
+EX:-booking a flight.
+
+How API works?:-Restaurant
+you(consumer)"want service"
+kitchen's chef(Provider)"Give service"
+waiter(API)takes(req)delivers(chef) & delivers the response(JSON data)
+
+Example:-
+Makemytrip(All Hotel Data) comparition
+Sighnin with "GFG"
+
+inshort:-
+Other developer code make your work easy  
+All similar company data put togrther
+
+Type of API
+Simple Object Access Protocol   (SOAP)
+Representational State Transfer (REST)
+
+Youtube:-
+company give Api key and authenticate you
+Own site API
+What next?
+
+
+

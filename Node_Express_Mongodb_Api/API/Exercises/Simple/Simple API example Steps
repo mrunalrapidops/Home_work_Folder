@@ -1,0 +1,54 @@
+Simple API example Steps
+USE => public API of "OpenWeatherMap"
+Steps
+Menubar => API
+subcribe => subject youwant
+get free API Key => signup
+They provide URL trow which you can get data
+like => http://api.openweathermap.org/data/2.5/weather?q=Orlando,uk&APPID=1a309cef67bd9fde87322cb0b305fbfe
+=>you have change City,country for Data 
+
+OUTPUT
+------
+{
+  "coord": {
+    "lon": 72.58,
+    "lat": 23.02
+  },
+  "weather": [
+    {
+      "id": 711,
+      "main": "Smoke",
+      "description": "smoke",
+      "icon": "50n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 297.15,
+    "pressure": 1010,
+    "humidity": 57,
+    "temp_min": 297.15,
+    "temp_max": 297.15
+  },
+  "visibility": 4000,
+  "wind": {
+    "speed": 1,
+    "deg": 340
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1551639600,
+  "sys": {
+    "type": 1,
+    "id": 9049,
+    "message": 0.0039,
+    "country": "IN",
+    "sunrise": 1551576560,
+    "sunset": 1551618841
+  },
+  "id": 1279233,
+  "name": "Ahmedabad", 
+  "cod": 200
+}
